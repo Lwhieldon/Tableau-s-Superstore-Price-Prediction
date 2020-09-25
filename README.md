@@ -1,7 +1,7 @@
 # Tableau's Sample-Superstore!
 ##  Predicting Profits by Product Category
 <p align="center">
-<img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/SampleSuperstore.png?raw=true" width="200" height="200" />
+<img src="https://github.com/Lwhieldon/Tableau-s-Superstore-Price-Prediction/blob/master/Images/SampleSuperstore.png?raw=true" width="200" height="200" />
 </p>
 
 ## Overview
@@ -16,9 +16,9 @@ Check out the navigation below to see the entire story!
 This assignment contains 3 primary areas:
 
 <ol>
-  <li><a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Summary%20Report.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.</li>
-  <li> <a href=https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Assignments/Assignment%201/Code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
-  <li><a href=https://raw.githubusercontent.com/Lwhieldon/IntroToDataAnalysis/master/Assignments/Assignment%201/Sample%20-%20Superstore%20Data.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.</li>
+  <li><a href=https://github.com/Lwhieldon/Tableau-s-Superstore-Price-Prediction/blob/master/Summary%20Report.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project.</li>
+  <li> <a href=https://github.com/Lwhieldon/Tableau-s-Superstore-Price-Prediction/blob/master/Code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
+  <li><a href=https://github.com/Lwhieldon/Tableau-s-Superstore-Price-Prediction/blob/master/Sample%20-%20Superstore%20Data.csv>Dataset Used for Assignment:</a>. This data contains ~10k records and 17 columns.</li>
 </ol>
 
 
