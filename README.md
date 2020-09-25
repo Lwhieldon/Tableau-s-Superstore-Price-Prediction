@@ -1,4 +1,4 @@
-# Assignment 1: Regression
+# Tableau's Sample-Superstore:  Predicting Price by Product Category
 <p align="center">
 <img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/SampleSuperstore.png?raw=true" width="200" height="200" />
 </p>
